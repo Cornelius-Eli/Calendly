@@ -1,0 +1,67 @@
+.size{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: none;
+}
+.size2{
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+}
+.btn-primary{
+    height: 50px;
+    width: 250px;
+    background-color: black;
+    display: inline-block;
+    padding: 8px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.card{
+    border: none;
+}
+.col-md-10{
+    margin-top: 5rem;
+   
+}
+.col-md-2{
+    margin-top: 5rem;
+}
+}
+.freeshipping{
+    border: 10rem;
+    background-color: black;
+    color: white;
+    height: 22px;
+    width: 100px;
+    
+}
+.free-shipping {
+    position: absolute;
+    color: #ececec;
+    top: 10px;
+    right: 10px;
+    padding: 5px;
+    font-size: .6em;
+    background-color: #1b1a20;
+    cursor: default;
+}
+#select-sort{
+    background-color: #fff;
+    border: 1px solid #ececec;
+    border-radius: 2px;
+    margin-left: 380px;
+    width: auto;
+    height: 35px;
+}
+.flex-container {
+    display: flex;
+    
+  }
